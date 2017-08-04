@@ -5,6 +5,7 @@ _A small tool for scraping apartment info from Craigslist ads._
 ***
 
 This app was written with Cloud9 text editor. It is a work-in-progress. 
+
 If possible, I would suggest using Cloud9 to view it. It's free!
 
 ***
