@@ -1,0 +1,13 @@
+<h1>Recent Craigslist Apartment Offerings</h1>
+
+<br><br>
+
+<% @current_listings.each do |l| %>
+  <div>
+    <h3><%= l.title %></h3>
+    <p><%= l.post_date %></p>
+    <p></p><%= l.price %></p>
+  </div>
+  <hr>
+
+<% end %>

@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
 
-  root 'application#scrape_craigslist_apartments'
-
+  root 'listings#index'
+  resources :listings
 end
