@@ -1,4 +1,4 @@
-# craigslist-scraper
+# Craigslist Apartment Info Scraper
 
 _A small tool for scraping apartment info from Craigslist ads._
 
