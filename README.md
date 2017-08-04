@@ -13,6 +13,7 @@ If possible, I would suggest using Cloud9 to view it. It's free!
 To use this application: 
   * copy the repo from Github down to your preferred text editor
   * run bundle install
+  * run rake db:migrate
   * start your server
   * launch the app in your local browser (you can use the 'preview' function if you clone this repo in Cloud9)
 
