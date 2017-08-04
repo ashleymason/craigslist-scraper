@@ -1,4 +1,7 @@
 class Listing < ActiveRecord::Base
+
+  require 'open-uri'
+  require 'nokogiri'
   
   def self.empty_table
     old_seeds = Listing.all
